@@ -2,7 +2,7 @@
 
 This code from [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
 
-Code is editted for Korean Drama Dataset (Another Miss Oh)  
+It is editted for Korean Drama Dataset (Another Miss Oh)    
 
 
 
