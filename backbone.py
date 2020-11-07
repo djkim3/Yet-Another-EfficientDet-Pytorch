@@ -62,10 +62,10 @@ class EfficientDetBackbone(nn.Module):
     def forward(self, inputs):
         max_size = inputs.shape[-1]
 
-        _, p3, p4, p5 = self.backbone_net(inputs)
+        _, p3, p4, p5 = self.backbone_net(inputs) # 이미지를 EfficientNet 에 통과시킴
 
         features = (p3, p4, p5)
-        features = self.bifpn(features)
+        features = self.bifpn(features) # p3, p4, p5로 bifpn을 실행. output은 p3_out, p4_out, p5_out, p6_out, p7_out 으로 나옴.
 
         regression = self.regressor(features)
         classification = self.classifier(features)

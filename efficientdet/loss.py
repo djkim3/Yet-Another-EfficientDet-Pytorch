@@ -86,7 +86,7 @@ class FocalLoss(nn.Module):
                 
             IoU = calc_iou(anchor[:, :], bbox_annotation[:, :4])
 
-            IoU_max, IoU_argmax = torch.max(IoU, dim=1)
+            IoU_max, IoU_argmax = torch.max(IoU, dim=1) # 가장 많이 겹치는 anchorbox 를 찾음
 
             # compute the loss for classification
             targets = torch.ones_like(classification) * -1
