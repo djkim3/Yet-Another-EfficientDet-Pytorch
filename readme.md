@@ -1,4 +1,4 @@
-# Yet Another EfficientDet Pytorch Korean Drama Dataset
+# Yet Another EfficientDet Pytorch for Korean Drama Dataset
 
 This code from [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
 
