@@ -1,3 +1,13 @@
+# Yet Another EfficientDet Pytorch Korean Drama Dataset
+
+This code from [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
+
+Code is editted for Korean Drama Dataset (Another Miss Oh)  
+
+
+
+
+
 # Yet Another EfficientDet Pytorch
 
 The pytorch re-implement of the official [EfficientDet](https://github.com/google/automl/tree/master/efficientdet) with SOTA performance in real time, original paper link: <https://arxiv.org/abs/1911.09070>
