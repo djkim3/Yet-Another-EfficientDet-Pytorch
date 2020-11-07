@@ -4,7 +4,7 @@ This code from [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet
 
 It is editted for Korean Drama Dataset (Another Miss Oh)    
 
-
+[Pretrain weight](https://github.com/djkim3/Yet-Another-EfficientDet-Pytorch/releases/download/v0.1/efficientdet-d7_366_34131.pth)
 
 
 
