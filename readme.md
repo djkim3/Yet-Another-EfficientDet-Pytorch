@@ -6,7 +6,9 @@ It is editted for Korean Drama Dataset (Another Miss Oh)
 
 [Pretrain weight](https://github.com/djkim3/Yet-Another-EfficientDet-Pytorch/releases/download/v0.1/efficientdet-d7_366_34131.pth)  
 
+### UPDATE
 
+2021/11/09 : Improve performance. Download [Pretrain weight](https://github.com/djkim3/Yet-Another-EfficientDet-Pytorch-for-Korean-Drama-Dataset/releases/download/v0.2/efficientdet-d7_172_best.pth)
 
 # Yet Another EfficientDet Pytorch
 
